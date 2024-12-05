@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Prity Kumari! 👋  
 
-<!--
-**pritykushwaha254/pritykushwaha254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Aspiring DevOps Engineer** | 🛠️ I love working with tools | 🚀 Always learning  
 
-Here are some ideas to get you started:
+## 🌱 **About Me**:
+- 🔧 I'm passionate about **DevOps** 
+- 💻 I’m learning and practicing daily to become a **DevOps Engineer**.
+- 🧠 I enjoy solving problems and improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **My Skills**:
+- **Tools**: Git, GitHub, Gitlab, Docker, Jenkins, Ansible, Terraform, kubernetes
+- **Cloud**: AWS (Amazon Web Services)
+- **Linux**: RHEL, Ubuntu
+
+## 🌟 **What I Do**:
+- 🏆 I work hard to improve every day.
+- 🎯 I focus on **automating tasks** and learning new skills.
+- 📚 I like to teach others what I learn.
+
+## 📫 **Contact Me**:
+- https://www.linkedin.com/in/prity-kumari-737444226/
+- 📧 Email:pritykumari481997@gmail.com
+
+
