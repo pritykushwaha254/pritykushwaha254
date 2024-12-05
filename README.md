@@ -11,6 +11,7 @@
 - **Tools**: Git, GitHub, Gitlab, Docker, Jenkins, Ansible, Terraform, kubernetes
 - **Cloud**: AWS (Amazon Web Services)
 - **Linux**: RHEL, Ubuntu
+![download-1](https://github.com/user-attachments/assets/9f4c2329-a1f6-49aa-a49b-3e3810272bee)
 
 ## 🌟 **What I Do**:
 - 🏆 I work hard to improve every day.
